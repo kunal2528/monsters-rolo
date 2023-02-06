@@ -2,8 +2,9 @@
     -webkit-appearance: none;
     border: none;
     outline: none;
-    padding: 10px;
-    width: 150px;
+    padding: 8px;
+    width: 300px;
     line-height: 30px;
     margin-bottom: 30px;
+    text-transform: uppercase;
 }
